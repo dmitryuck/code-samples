@@ -1,0 +1,1 @@
+export { appRootReducer } from './rootReducer';

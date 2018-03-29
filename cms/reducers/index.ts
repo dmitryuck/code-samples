@@ -1,0 +1,1 @@
+export { cmsRootReducer } from './rootReducer';
